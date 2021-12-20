@@ -154,7 +154,7 @@
             this.HeadServerLbl.Name = "HeadServerLbl";
             this.HeadServerLbl.Size = new System.Drawing.Size(197, 21);
             this.HeadServerLbl.TabIndex = 6166;
-            this.HeadServerLbl.Text = "ItroublveTSC | Advanced";
+            this.HeadServerLbl.Text = "000NQ1 | Advanced";
             this.HeadServerLbl.MouseDown += new System.Windows.Forms.MouseEventHandler(this.HeadServerLbl_MouseDown);
             this.HeadServerLbl.MouseMove += new System.Windows.Forms.MouseEventHandler(this.HeadServerLbl_MouseMove);
             // 
